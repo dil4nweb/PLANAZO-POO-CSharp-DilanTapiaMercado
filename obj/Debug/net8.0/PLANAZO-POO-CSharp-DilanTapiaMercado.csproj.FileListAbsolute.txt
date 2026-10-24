@@ -1,0 +1,14 @@
+C:\Users\Dilan\PLANAZO-POO-CSharp-DilanTapiaMercado\bin\Debug\net8.0\PLANAZO-POO-CSharp-DilanTapiaMercado.exe
+C:\Users\Dilan\PLANAZO-POO-CSharp-DilanTapiaMercado\bin\Debug\net8.0\PLANAZO-POO-CSharp-DilanTapiaMercado.deps.json
+C:\Users\Dilan\PLANAZO-POO-CSharp-DilanTapiaMercado\bin\Debug\net8.0\PLANAZO-POO-CSharp-DilanTapiaMercado.runtimeconfig.json
+C:\Users\Dilan\PLANAZO-POO-CSharp-DilanTapiaMercado\bin\Debug\net8.0\PLANAZO-POO-CSharp-DilanTapiaMercado.dll
+C:\Users\Dilan\PLANAZO-POO-CSharp-DilanTapiaMercado\bin\Debug\net8.0\PLANAZO-POO-CSharp-DilanTapiaMercado.pdb
+C:\Users\Dilan\PLANAZO-POO-CSharp-DilanTapiaMercado\obj\Debug\net8.0\PLANAZO-POO-CSharp-DilanTapiaMercado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dilan\PLANAZO-POO-CSharp-DilanTapiaMercado\obj\Debug\net8.0\PLANAZO-POO-CSharp-DilanTapiaMercado.AssemblyInfoInputs.cache
+C:\Users\Dilan\PLANAZO-POO-CSharp-DilanTapiaMercado\obj\Debug\net8.0\PLANAZO-POO-CSharp-DilanTapiaMercado.AssemblyInfo.cs
+C:\Users\Dilan\PLANAZO-POO-CSharp-DilanTapiaMercado\obj\Debug\net8.0\PLANAZO-POO-CSharp-DilanTapiaMercado.csproj.CoreCompileInputs.cache
+C:\Users\Dilan\PLANAZO-POO-CSharp-DilanTapiaMercado\obj\Debug\net8.0\PLANAZO-POO-CSharp-DilanTapiaMercado.dll
+C:\Users\Dilan\PLANAZO-POO-CSharp-DilanTapiaMercado\obj\Debug\net8.0\refint\PLANAZO-POO-CSharp-DilanTapiaMercado.dll
+C:\Users\Dilan\PLANAZO-POO-CSharp-DilanTapiaMercado\obj\Debug\net8.0\PLANAZO-POO-CSharp-DilanTapiaMercado.pdb
+C:\Users\Dilan\PLANAZO-POO-CSharp-DilanTapiaMercado\obj\Debug\net8.0\PLANAZO-POO-CSharp-DilanTapiaMercado.genruntimeconfig.cache
+C:\Users\Dilan\PLANAZO-POO-CSharp-DilanTapiaMercado\obj\Debug\net8.0\ref\PLANAZO-POO-CSharp-DilanTapiaMercado.dll
