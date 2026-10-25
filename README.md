@@ -1,4 +1,4 @@
-# PLANAZO - Sistema de Gestion de Eventos
+# PLANAZO
 
 **Estudiante:** Dilan Tapia Mercado
 
